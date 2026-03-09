@@ -27,7 +27,7 @@ Add your API key to `.mcp.json`:
 
 Get an API key by sending your email to `POST https://api.superior.trade/auth/sign-in/magic-link`.
 
-## Tools (17)
+## Tools (18)
 
 | Tool | Description |
 |------|-------------|
@@ -53,7 +53,6 @@ Get an API key by sending your email to `POST https://api.superior.trade/auth/si
 ## Documentation
 
 - [SKILL.md](./SKILL.md) — Agent workflow guidance, exchange info, strategy templates
-- [ARCHITECTURE_MCP.md](./ARCHITECTURE_MCP.md) — Technical architecture and design decisions
 
 ## Editor Compatibility
 
