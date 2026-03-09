@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "superior-trade": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "./dist/index.js"
+      ],
+      "env": {
+        "SUPERIOR_TRADE_API_URL": "https://api.superior.trade",
+        "SUPERIOR_TRADE_API_KEY": ""
+      }
+    }
+  }
+}
